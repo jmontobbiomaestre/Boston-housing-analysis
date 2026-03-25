@@ -33,6 +33,10 @@ This project is a basic exploratory data analysis of the Boston Housing dataset 
 
 The dataset used is the Boston Housing dataset, which contains information about housing in different areas of Boston.
 
+## Project Structure
+
+`boston_housing_analysis.ipynb`: main notebook with analysis and visualizations
+
 ## Author
 
 Juan Montobbio Maestre
